@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shivdeepwebsite/static/css/main.f855e6bc.css",
+    "main.js": "/shivdeepwebsite/static/js/main.8d8d56e7.js",
+    "static/js/213.4484f20d.chunk.js": "/shivdeepwebsite/static/js/213.4484f20d.chunk.js",
+    "static/js/455.634066ee.chunk.js": "/shivdeepwebsite/static/js/455.634066ee.chunk.js",
+    "static/media/logo.jpeg": "/shivdeepwebsite/static/media/logo.8f5d954bff4a71ba0970.jpeg",
+    "index.html": "/shivdeepwebsite/index.html",
+    "main.f855e6bc.css.map": "/shivdeepwebsite/static/css/main.f855e6bc.css.map",
+    "main.8d8d56e7.js.map": "/shivdeepwebsite/static/js/main.8d8d56e7.js.map",
+    "213.4484f20d.chunk.js.map": "/shivdeepwebsite/static/js/213.4484f20d.chunk.js.map",
+    "455.634066ee.chunk.js.map": "/shivdeepwebsite/static/js/455.634066ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8d8d56e7.js"
+  ]
+}
